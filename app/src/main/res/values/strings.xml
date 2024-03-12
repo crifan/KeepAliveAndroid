@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">KeepAliveAndroid</string>
+    <string name="updateDate">20230816</string>
+    <string name="lastUpdate">最后更新：</string>
+    <string name="function">作用：</string>
+    <string name="demoKeepAlive">演示Android保活技术</string>
+</resources>
